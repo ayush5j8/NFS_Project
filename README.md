@@ -15,6 +15,6 @@ This project is about leveraging the concept of Logical voume management and Net
 #How to run the project?
 1. go to http://<your-server-ip>/index.html [not https]
 2. submit the form and then a binary file is downloaded to your system.
-3. run that file and now you have a block storage active.
+3. run that file and now you have a block storage active in /mnt directory.
 
 Note: there might be some additional configuration with your apache server depending on the version and environment variables and also your os specific. Make sure you fix those. 
