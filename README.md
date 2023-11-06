@@ -10,10 +10,10 @@ This project is about leveraging the concept of Logical voume management and Net
 6. Make sure your script has executable permissions.
 
 # Client side setup
-1. make sure the script that is downloaded has NOPASSWD property set.
+1. make sure the user that is running the downloaded script has NOPASSWD property set.
 2. now run the script with sudo privileges.
 
-#How to run the project?
+# How to run the project?
 1. go to http://<your-server-ip>/index.html [not https]
 2. submit the form and then a binary file is downloaded to your system.
 3. run that file and now you have a block storage active in /mnt directory.
